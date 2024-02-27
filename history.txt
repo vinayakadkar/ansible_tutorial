@@ -1,0 +1,52 @@
+
+    1  pwd
+    2  whoami
+    3  df -h
+    4  sudo root
+    5  sudo df -h
+    6  df -h
+    7  ifconfig -a
+    8  ipconfig -a
+    9  man ssh-key
+   10  man sshkey
+   11  man key-gen
+   12  man
+   13  man man
+   14  man scp
+   15  which git
+   16  sudo apt update
+   17  sudo apt install git
+   18  git
+   19  ssh-keygen -t ed25519 -C "vin default"
+   20  ls -la .ssh
+   21  cat .ssh/id_ed25519.pub
+   22  git clone git@github.com:vinayakadkar/ansible_tutorial.git
+   23  ls
+   24  cd ansible_tutorial/
+   25  ls
+   26  cat README.md
+   27  git config --global user.name "Vinayak Adkar"
+   28  git config --global user.email "vinayakadkar@gmail.com"
+   29  cat ~/.gitconfig
+   30  git config --global user.name "vinayakadkar"
+   31  cat ~/.gitconfig
+   32  nano README.md
+   33  cat README.md
+   34  git status
+   35  git diff README.md
+   36  git add README.md
+   37  git status
+   38  git commit -m "updated readme file, intial commit"
+   39  git push origin master
+   40  git commit -m "intial commit"
+   41  git push origin main
+   42  nano README.md
+   43  cat README.md
+   44  git status
+   45  git diff README.md
+   46  git add README.md
+   47  git status
+   48  git commit -m "updated readme file, second commit"
+   49  git push origin master
+   50  git push origin main
+   51  history
